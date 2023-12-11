@@ -3,7 +3,8 @@
 - 🌱I am currently studying product development methods and project management.
 - 💞️I am seeking collaboration for product design and user experience design targeting the C-end market.
 - 📫 You can contact me through my email 15925767314@163.com
-我的微信：刘晨2623503
+
+
 
 <!---
 Steve2231223/Steve2231223 是一个 ✨ 特殊 ✨ 存储库，因为它的“README.md”（此文件）出现在您的 GitHub 个人资料上。
